@@ -10,5 +10,5 @@ nx = -2:Ts:2;
 % Rectangular Pulse of width 2
 xt = 2*rectpuls(nx,2);
 
-% Convolution Visualization
+% Convolution Visualization sample
 ConvolutionVisualization(nx,xt,nx,xt,0.1,'CT');
