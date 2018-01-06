@@ -1,4 +1,4 @@
-%Release Memory and Generate Signal
+% Release Memory and Generate Signal
 clear;clc;
 
 % Sampling Period
